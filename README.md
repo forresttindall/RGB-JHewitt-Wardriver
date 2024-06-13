@@ -21,8 +21,8 @@ To install the enhanced wardriver with RGB LEDs, follow these steps:
 
 1. Solder the button and LEDs according to the provided instructions.
 2. Install the provided code onto the device.
-3. For a installation guide of the mod, visit [www.forresttindall.com](http://www.forresttindall.com). 
-also see [463n7s video here](https://www.youtube.com/watch?v=snlNfVZJ6Xw&t=24s) for a full video guide.
+3. For an installation guide of the mod, visit [www.forresttindall.com](http://www.forresttindall.com). 
+Also see [463n7s video here](https://www.youtube.com/watch?v=snlNfVZJ6Xw&t=24s) for a full video guide.
 
 ## Usage
 
