@@ -41,11 +41,9 @@ Contributions to this project are welcomed and encouraged. Since it's open sourc
 
 ## License
 
-This project is fully open source and released under [MIT License]. Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is fully open source and released under [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
-
-Special thanks to Joseph Hewitt for the original wardriver code and inspiration. Additional acknowledgments ## Acknowledgments
 
 Special thanks to Joseph Hewitt ([@JosephHewitt](https://github.com/JosephHewitt)) for the original wardriver code and inspiration. Additionally, acknowledgment goes to [Krrawn](https://www.instagram.com/krrawn/?hl=en) for his case design, which sparked the idea to integrate RGB LEDs into the wardriver.
 
