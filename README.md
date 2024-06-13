@@ -1,4 +1,4 @@
-# Rev3-wardriver-RGB
+# JHewitt Wardriver with RGB
 Enhanced Rev3 Wardriver with RGB LEDs: A modified version of Hewitt's wardriver, now with added functionality.
 
 ## Enhanced Wardriver with RGB LEDs
