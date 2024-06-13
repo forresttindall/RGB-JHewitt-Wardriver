@@ -1,3 +1,6 @@
+![Wardriver-github-readme](https://github.com/forresttindall/RGB-Jhewitt-wardriver/assets/144488579/b24b5b90-af12-4f9b-b61e-a9ddaafa8e10)
+
+
 # RGB JHewitt Wardriver
 Enhanced Rev3 Wardriver with RGB LEDs: A modified version of Hewitt's wardriver, now with added functionality.
 
