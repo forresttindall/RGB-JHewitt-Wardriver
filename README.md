@@ -48,3 +48,5 @@ This project is fully open source. Feel free to use, modify, and distribute the 
 
 Special thanks to Joseph Hewitt ([@JosephHewitt](https://github.com/JosephHewitt)) for the original wardriver code, engineering and inspiration. Additionally, acknowledgment goes to [Krrawn](https://www.instagram.com/krrawn/?hl=en) for his case design, which sparked the idea to integrate RGB LEDs into the wardriver.
 
+Also a special thanks to my wife Elle Caton Tindall, for crucial improvements to button functionality UX via the implimentation of an immediate off function.
+
