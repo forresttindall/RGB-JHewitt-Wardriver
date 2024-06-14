@@ -42,7 +42,7 @@ Contributions to this project are welcomed and encouraged. Since it's open sourc
 
 ## License
 
-This project is fully open source and released under [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is fully open source. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
