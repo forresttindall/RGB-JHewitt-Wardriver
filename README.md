@@ -46,5 +46,5 @@ This project is fully open source. Feel free to use, modify, and distribute the 
 
 ## Acknowledgments
 
-Special thanks to Joseph Hewitt ([@JosephHewitt](https://github.com/JosephHewitt)) for the original wardriver code and inspiration. Additionally, acknowledgment goes to [Krrawn](https://www.instagram.com/krrawn/?hl=en) for his case design, which sparked the idea to integrate RGB LEDs into the wardriver.
+Special thanks to Joseph Hewitt ([@JosephHewitt](https://github.com/JosephHewitt)) for the original wardriver code, engineering and inspiration. Additionally, acknowledgment goes to [Krrawn](https://www.instagram.com/krrawn/?hl=en) for his case design, which sparked the idea to integrate RGB LEDs into the wardriver.
 
