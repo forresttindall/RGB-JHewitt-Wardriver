@@ -3,6 +3,9 @@
 
 
 # RGB JHewitt Wardriver
+
+### This is still in testing... Use at your own risk
+
 Enhanced Rev3 Wardriver with RGB LEDs: A modified version of Hewitt's wardriver, now with added functionality.
 
 ## Enhanced Wardriver with RGB LEDs
