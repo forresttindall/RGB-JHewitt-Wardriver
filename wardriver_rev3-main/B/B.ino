@@ -688,7 +688,7 @@ byte read_id_pins(){
 
 
 
-void setup() {
+void setup2() {
   // Initialize the RGB pins as outputs
   pinMode(RED_PIN, OUTPUT);
   pinMode(GREEN_PIN, OUTPUT);
@@ -701,7 +701,7 @@ void setup() {
   attachInterrupt(digitalPinToInterrupt(BUTTON_PIN), buttonPressed, FALLING);
 }
 
-void loop() {
+void loop3() {
   // Call different modes based on currentMode
   switch (currentMode) {
     case 0:
