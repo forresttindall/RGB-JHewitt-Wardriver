@@ -2,6 +2,12 @@
 
 
 
+
+Uploading IMG_4695.mov…
+
+
+
+
 # RGB JHewitt Wardriver
 
 ### This is still in testing... Use at your own risk
@@ -16,7 +22,7 @@ This project is a modified version of the open-source JHewitt wardriver, origina
 
 - Addition of RGB LEDs
 - Custom code to control the LEDs
-- Integration of a button for toggling LED modes (on/off and color selection)
+- Integration of a button for toggling LED mode (on/off)
 
 ## Installation
 
@@ -32,12 +38,9 @@ Also see [463n7s video here](https://www.youtube.com/watch?v=snlNfVZJ6Xw&t=24s) 
 
 The RGB LEDs are controlled by a single button located on the front panel. To interact with the LEDs, follow these instructions:
 
-- Press and hold the button for approximately 3-4 seconds to toggle between LED modes.
-- There are a total of 7 color modes to choose from, along with an option to turn the LEDs off.
+- Press and hold the button for approximately 3-4 seconds to turn on and off the reactive lighting mode.
 
-## Customization
 
-Users can customize the behavior and appearance of the RGB LEDs by modifying the provided code. Additional features and functionalities can be added based on individual preferences and requirements.
 
 ## Contributing
 
@@ -51,5 +54,5 @@ This project is fully open source. Feel free to use, modify, and distribute the 
 
 Special thanks to Joseph Hewitt ([@JosephHewitt](https://github.com/JosephHewitt)) for the original wardriver code, engineering and inspiration. Additionally, acknowledgment goes to [Krrawn](https://www.instagram.com/krrawn/?hl=en) for his case design, which sparked the idea to integrate RGB LEDs into the wardriver.
 
-Also a special thanks to my wife Elle Caton Tindall, for crucial improvements to button functionality UX via the implimentation of an immediate off function.
+Also a special thanks to my wife Elle Caton, for crucial improvements to button functionality UX via the implimentation of an immediate off function.
 
