@@ -20,7 +20,9 @@ Enhanced Rev3 Wardriver with RGB LEDs: A modified version of Hewitt's wardriver,
 
 ## Enhanced Wardriver with RGB LEDs
 
-This project is a modified version of the open-source JHewitt wardriver, originally developed by Joseph Hewitt. The motivation behind this modification was to add RGB LEDs to the wardriver, inspired by the aesthetics of a resin-printed Krrawn case, which prompted the desire for illuminated features.
+This project is a modified version of the open-source JHewitt wardriver, originally developed by Joseph Hewitt. 
+This project adds reactive LED illumination while wardriving. The device flashes green for wifi signals found and blue for bluetooth signals found.
+The motivation behind this modification was to add RGB LEDs to the wardriver, inspired by the aesthetics of a resin-printed Krrawn case, which prompted the desire for illuminated features.
 
 ## Features
 
